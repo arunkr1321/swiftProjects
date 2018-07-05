@@ -1,2 +1,2 @@
 # swiftProjects
-swift beginner projects
+swift projects
